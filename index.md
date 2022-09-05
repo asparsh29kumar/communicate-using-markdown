@@ -8,3 +8,8 @@
 $ echo "hello world"
 hello world
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Do none of the above
